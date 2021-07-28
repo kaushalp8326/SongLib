@@ -1,5 +1,5 @@
 # Song Library
-Rutgers CS 213 Assignment 1
+Rutgers CS 213 Assignment 1 made with @johnhoban42
 
 <h3>Importing this repository into Eclipse</h3>
 
